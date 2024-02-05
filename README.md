@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msk4477" alt="msk4477" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saravanakumar" target="blank"><img src="https://img.shields.io/twitter/follow/saravanakumar?logo=twitter&style=for-the-badge" alt="saravanakumar" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sprightly-empanada-2012a4.netlify.app/](https://sprightly-empanada-2012a4.netlify.app/)
 
@@ -22,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/saravanakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanakumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saravana043/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saravanakumar" height="30" width="40" /></a>
 
 </p>
 
